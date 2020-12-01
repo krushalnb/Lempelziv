@@ -1,4 +1,5 @@
-<h1 align="center">**Lempel-ziv** coding for text file</h1>
+<h1 align="center">Lempel-ziv coding for text file</h1>
+
 ## Description
 
 This python project will help you to encode and decode your text file with Lempel-ziv coding.
@@ -22,8 +23,12 @@ Open the command window and provide the below command to run the project.
 ## Result
  
  After successfully running the first command system will generate file as below.
+ ```
  <inputfilename>.lzw
+ ```
  
  After successfully running the second command system will generate file as below.
+ ```
  <inputfilename>_decode.txt
+ ```
  
